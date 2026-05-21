@@ -1,9 +1,9 @@
-import Header from "../components/Header"
+// import Header from "../components/Header"
 
 const About = () => {
     return (
         <div>
-            <Header />
+            {/* <Header /> */}
             <h1>About page</h1>
         </div>
     )

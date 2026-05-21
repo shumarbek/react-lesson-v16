@@ -1,9 +1,9 @@
-import Header from "../components/Header"
+// import Header from "../components/Header"
 
 const Contact = () => {
     return (
         <div>
-            <Header />
+            {/* <Header /> */}
             <h1>Contact page</h1>
         </div>
     )
